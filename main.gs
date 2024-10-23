@@ -1,5 +1,5 @@
 const LESSONS = 1;
-const DUOLINGO_JWT = "";
+const DUOLINGO_JWT = "<REPLACE>";
 
 async function main() {
   try {
